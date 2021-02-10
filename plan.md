@@ -55,7 +55,7 @@
 
 <a id="orgcd655a7"></a>
 
-## Wallet - Intention is to make a minimalistic clone [MyEtherWallet](http://github.com/MyEtherWallet/etherwallet) preferably as a browser extension.
+## Wallet - Intention is to make a minimalistic clone [EthHotWallet](https://github.com/PaulLaux/eth-hot-wallet) preferably as a browser extension.
 
 
 <a id="orgf5a132e"></a>
