@@ -22,16 +22,16 @@ contract ERC20 is ERC20I {
 		}
 
 		// Returns name of the token.
-		function getName() public view returns (string memory){
+		function name() public view returns (string memory){
 				return _name;
 		}
 
 		// Returns Symbol of the token.
-		function getSymbol() public view returns (string memory){
+		function symbol() public view returns (string memory){
 				return _symbol;
 		}
 
-		fuction getTotalSupply() public view override returns (uint256){
+		function totalSupply() public view override returns (uint256){
 				return totalSupply;
 		}
 
@@ -49,6 +49,10 @@ contract ERC20 is ERC20I {
 				_approve(msg.sender, spender, amount);
 		}
 
+		function balanceOf(address account) public view override returns (uint256) {
+		    return _balances[account];
+		}
+		    
 		function transferFrom(address sender, address recipient, uint256 amount) public override returns (bool) {
 				_transfer(sender, reicipient, amount);
 				uint256 currentAllowance = _allowances[sender][msg.sender];

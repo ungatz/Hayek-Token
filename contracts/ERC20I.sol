@@ -3,7 +3,7 @@ pragma solidity ^0.8.0
 interface ERC20I {
 
 		// Returns total tokens that can exist.
-		funtion totalSupply() external view returns (uint256);\
+		function totalSupply() external view returns (uint256);
 
 		// Returns amount of Tokens owned by some wallet/account.
 		function balanceOf(address account) external view returns (uint256);
