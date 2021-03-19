@@ -1,5 +1,5 @@
 {
-  "name": "WHIZ",
+  "name": "HYK",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enjiniya-sama/WHIZ.git"
+    "url": "git+https://github.com/cypherBeep/Hayek-Token.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enjiniya-sama/WHIZ/issues"
+    "url": "https://github.com/cypherBeep/Hayek-Token/issues"
   },
-  "homepage": "https://github.com/enjiniya-sama/WHIZ#readme"
+  "homepage": "https://github.com/cypherBeep/Hayek-Token#readme"
 }

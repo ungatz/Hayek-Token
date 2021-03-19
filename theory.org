@@ -1,0 +1,17 @@
+#+TITLE: Token Info
+#+AUTHOR: cypherBeep
+#+STARTUP: overview
+#+OPTIONS: toc:nil
+
+* Why?
+** Problem
+- Customer loyalty and engagement can make or break companies, and as such, loyalty rewards programs represent strategic investments for all types of organizations. Though loyalty programs are growing rapidly they are still far from achieving their full potential with issues such as account inactivity, low redemption rates, time delays high transaction and system management and customer acquisition costs and low client retention. There are potential solutions to solve these problems without the help of blockchain or smart contracts such as,
+
+     #+BEGIN_QUOTE
+  "to integrate disparate programs into an interlinked loyalty network, but such collaboration is not easy in an industry with inconsistent digital infrastructure and obligations to protect competitive proprietary information as well as customers’ personally identifiable information (PII). Also, large program operators with scaled and developed management systems would understandably be the most hesitant to join an interlinked network that could intersect with their own successful interlinking efforts (e.g., a large credit card issuer) and reduce their competitive advantage."
+    #+END_QUOTE
+
+ but as the above source highlights these kind of solution come with huge drawbacks which finally leads to lesser participation of companies.
+
+** Solution
+- Blockchain based solution allows participating agents, which in the case of loyalty rewards programs include loyalty reward program providers, administrators, customers, etc. to intersect and interact in one system without intermediaries and without compromising privacy or competitiveness. Finally, blockchain has proved to be able to be deployed through social media and digital wallets, and can interact with existing loyalty rewards program platforms through smart contracts, which are “self-executing code on a blockchain that automatically implements the terms of an agreement between parties,” and associated digital architecture.
