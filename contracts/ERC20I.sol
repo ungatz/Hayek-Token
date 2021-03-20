@@ -1,4 +1,4 @@
-pragma solidity ^0.5.16;
+pragma solidity >=0.4.21 <0.6.0;
 
 interface ERC20I {
 
@@ -24,7 +24,7 @@ interface ERC20I {
 
 		// Transfers "amount" of tokens from sender to recipient as per the above
 		// allowance mechanism. Also "amount" is deducted from the callers allowance.
-		function transferFrom(address sender, address recipient, uint25 amount) external returns (bool);
+		function transferFrom(address sender, address recipient, uint256 amount) external returns (bool);
 
 		// Emmited when "value" tokens are moved from address "from" toaddress "to".
 		event Transfer(address indexed from, address indexed to, uint256 value);

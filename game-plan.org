@@ -11,8 +11,8 @@
 - [X] Research and Wishful Documentation (S)
 - [X] Moreover continue reading other smart contracts and related information (ALL)
 - [ ] Setup Solidity Development Environment on each node so as to ease workflow (ALL)
-** March [0/6]
-- [ ] Implement the contract logic (KS)
+** March [2/4]
+- [X] Implement the contract logic (KS)
+- [X] Get truffle and Ganache working (ALL)
 - [ ] Draw them UMLs (S)
-- [ ] Get truffle and Ganache working (ALL)
 - [ ] Start with the wallet (VR)

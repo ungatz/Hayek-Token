@@ -1,0 +1,12 @@
+#+TITLE: uml_metadata
+#+AUTHOR: cypherBeep
+#+STARTUP: overview
+#+OPTIONS: toc:nil
+
+* Consumer
+** A single wallet for multiple programs.
+** Can redeem points.
+** Can spend points.
+* Loyalty Program Provider
+** Tokenization of loyalty points.
+** Linking customers to more service providers to give them a fuller customer experience.
