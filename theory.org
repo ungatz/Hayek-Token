@@ -20,6 +20,7 @@
 
 - As a decentralized public ledger, blockchain technology can be an affordable way to store and share reward point activity and balances. Unlocking this information potentially opens up more ways for consumers to be aware and use their points, which reinforces brand loyalty.
 
+- [[./img/alice.jpg]]
 * Benefits
 
 - Fungibility
