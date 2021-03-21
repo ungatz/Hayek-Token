@@ -1,0 +1,39 @@
+#+TITLE: Token Info
+#+AUTHOR: cypherBeep
+#+STARTUP: overview
+#+OPTIONS: toc:nil
+
+* Why?
+** Problem
+- The goal of loyalty programs is to encourage consumers to purchase more. By some estimates, it costs five times as much to acquire a customer than to keep an existing one. Thus fostering customer loyalty is critical for most businesses, especially ecommerce. Customer loyalty and engagement can make or break companies, and as such, loyalty rewards programs represent strategic investments for all types of organizations. Though loyalty programs are growing rapidly they are still far from achieving their full potential with issues such as account inactivity, low redemption rates, time delays high transaction and system management and customer acquisition costs and low client retention. There are potential solutions to solve these problems without the help of blockchain or smart contracts such as,
+
+
+     #+BEGIN_QUOTE
+  "to integrate disparate programs into an interlinked loyalty network, but such collaboration is not easy in an industry with inconsistent digital infrastructure and obligations to protect competitive proprietary information as well as customers’ personally identifiable information (PII). Also, large program operators with scaled and developed management systems would understandably be the most hesitant to join an interlinked network that could intersect with their own successful interlinking efforts (e.g., a large credit card issuer) and reduce their competitive advantage."
+    #+END_QUOTE
+
+
+  but as the above source highlights these kind of solution come with huge drawbacks which finally leads to lesser participation of companies.
+
+** Solution
+- Blockchain based solution allows participating agents, which in the case of loyalty rewards programs include loyalty reward program providers, administrators, customers, etc. to intersect and interact in one system without intermediaries and without compromising privacy or competitiveness. Finally, blockchain has proved to be able to be deployed through social media and digital wallets, and can interact with existing loyalty rewards program platforms through smart contracts, which are “self-executing code on a blockchain that automatically implements the terms of an agreement between parties,” and associated digital architecture.
+
+- As a decentralized public ledger, blockchain technology can be an affordable way to store and share reward point activity and balances. Unlocking this information potentially opens up more ways for consumers to be aware and use their points, which reinforces brand loyalty.
+
+
+ [[./img/alice.jpg]]
+
+
+* Benefits
+
+- Fungibility
+
+  Traditional loyalty points have no real life value (except for some credit card points). Tokens, on the other hand, are typically traded on an exchange, so consumers can easily and immediately convert them to real currency or other crypto tokens.
+
+- Program rules
+
+   Businesses often exercise wide discretion in setting up their loyalty-points programs. Minimum spends, expiration dates, points devaluations, and other program changes are common. The result is complexity that can reduce the incentive and ability for consumers to redeem, as evidenced by an estimated 48 trillion loyalty points unredeemed by consumers globally. Conversely, tokens are unrestricted, potentially reducing the redemption confusion.
+
+- Consumer Data Privacy
+
+  Traditional loyalty programs can also provide businesses with much data about participating consumers to tailor products, services, and marketing campaigns. All these is most oftenly done without the consent of consumers, and in today's world privacy is a mainstream concern more than ever. Retailers can capitalize on the unique security aspects of blockchain technology to give users more control of their data.
